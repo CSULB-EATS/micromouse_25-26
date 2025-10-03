@@ -83,15 +83,15 @@ To keep our main branch clean, **always work on your own sub-branch**.
 git checkout main
 git pull origin main
 
-# Create your own sub-branch (replace 'bex-spi' with your name/feature)
-git checkout -b bex-spi
+# Create your own sub-branch (replace 'bx-mouse' with your name/feature)
+git checkout -b bx-mouse
 
 # Work on your changes
 git add .
-git commit -m "Implement SPI driver"
+git commit -m "Folder Setup"
 
 # Push your sub-branch to the repo
-git push origin bex-spi
+git push origin bx-mouse
 ```
 ---
 
