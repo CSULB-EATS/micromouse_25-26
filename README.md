@@ -72,7 +72,8 @@ cd micromouse-setup
 
 - Languages: ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded%20C-orange?style=flat)  
 - Recommended: enable **Format on Save** in your IDE for clean code.
-- ## 🌱 Git Workflow  
+
+##  Git Workflow  
 
 To keep our main branch clean, **always work on your own sub-branch**.  
 
